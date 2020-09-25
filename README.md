@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-<!--
-**Cicko/cicko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on
   - Side projects as an Interactive Learning Platform for Coding
-  - Games inspired on agar.io with an educational point about Chemistry and Physics
-  - Tools for musicians
+  - Game inspired on agar.io with an educational point about Chemistry and Physics
+  - Tools for musicians (PWAs)
   - Finishing some VR projects
   
 - 🌱 I’m currently learning 
@@ -30,5 +27,7 @@ Here are some ideas to get you started:
   - Twitter: @rudolfcicko2
   - YouTube: Rudolf Cicko Music
   - Facebook: Rudolf Cicko
+
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: In Spain they call me the Czech guy, in Czechia they call me the Spanish guy.
