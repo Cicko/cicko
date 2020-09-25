@@ -16,6 +16,15 @@ I am Rudy, an experienced Web and Apps developer with 8 years coding experience 
 - 👯 I’m looking to collaborate on 
   - Big projects such the Chromium Browser. I already started an improvement I hope to PR soon
   
+- 🤸‍ In my free time
+  - I play the piano
+  - I go to the gym
+  - I attend social meetups
+  - I take the bike around the forest
+  - I read curious books
+  - I watch series and movies on Netflix
+
+  
 - 💬 Ask me about 
   - Web and Apps development
   - Game development
