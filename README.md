@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+I am Rudy, an experienced Web and Apps developer with 8 years coding experience (4 of them professionally with JavaScript). 
 
 - 🔭 I’m currently working on
-  - Side projects as an Interactive Learning Platform for Coding
+  - Side projects such an Interactive Learning Platform for Coding
   - Game inspired on agar.io with an educational point about Chemistry and Physics
   - Tools for musicians (PWAs)
   - Finishing some VR projects
   
 - 🌱 I’m currently learning 
   - Docker containerization
-  - Java Backend
+  - Java Backend (Java Spring)
   - Some JS Fullstack frameworks such Blitzjs
   
 - 👯 I’m looking to collaborate on 
