@@ -36,7 +36,6 @@ I am Rudy, an experienced Web and Apps developer with 8 years coding experience 
   - Twitter: @rudolfcicko2
   - YouTube: Rudolf Cicko Music
   - Facebook: Rudolf Cicko
-
-- 😄 Pronouns: He/Him
+  - Reddit: https://www.reddit.com/user/rudolfcicko
 
 - ⚡ Fun fact: In Spain they call me the Czech guy, in Czechia they call me the Spanish guy.
