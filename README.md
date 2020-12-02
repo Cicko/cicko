@@ -32,7 +32,7 @@ I am Rudy, an experienced Web and Apps developer with 8 years coding experience 
   
 - 📫 How to reach me: 
   - Mail: rudolfcickodev@gmail.com
-  - Instagram: @rcicko_music
+  - Instagram: https://www.instagram.com/rcicko_music/
   - Twitter: @rudolfcicko2
   - YouTube: Rudolf Cicko Music
   - Facebook: Rudolf Cicko
