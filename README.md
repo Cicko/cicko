@@ -2,10 +2,11 @@
 
 I am Rudy, an experienced Web and Apps developer with 8 years coding experience (4 of them professionally with JavaScript). 
 
-- 🔭 I’m currently working on
-  - Broker platform with a multidisciplinary team, managing currently 3 developers around the globe  
-  - Social Network for Classical Pianists (temporarly delayed)
-  - Tools for musicians (PWAs)
+- 🔭 I’m currently working..
+  - As Software Engineer at IBM - (TypeScript, React, Java)
+  - On a Broker platform with a multidisciplinary team, managing currently 3 developers around the globe  
+  - On a Social Network for Classical Pianists (temporarly delayed)
+  - On some Tools for musicians (PWAs)
   
 - 🌱 I’m currently learning
   - About Finance
