@@ -3,23 +3,28 @@
 I am Rudy, an experienced Web and Apps developer with 8 years coding experience (4 of them professionally with JavaScript). 
 
 - 🔭 I’m currently working on
-  - Social Network for Classical Pianists
+  - Broker platform with a multidisciplinary team, managing currently 3 developers around the globe  
+  - Social Network for Classical Pianists (temporarly delayed)
   - Tools for musicians (PWAs)
-  - Finishing some VR projects
   
-- 🌱 I’m currently learning 
-  - 
+- 🌱 I’m currently learning
+  - About Finance
+  - Improving my soft/hard skills
+  - About healthy nutrition
+  - Prokofiev's Piano Concerto 2 - Cadenza and Mirage by Oscar Peterson
   
 - 👯 I’m looking to collaborate on 
   - Big projects such the Chromium Browser. I already started an improvement I hope to PR soon
+  - React core
+  - existing and non-maintained useful libraries
   
-- 🤸‍ In my free time
-  - I play the piano
-  - I go to the gym
-  - I attend social meetups
-  - I take the bike around the forest
-  - I read curious books
-  - I watch series and movies on Netflix
+- 🤸‍ In my free time, I..
+  - Smash the piano
+  - Visit the gym or calisthenics parks
+  - Ride the bike around some nature
+  - Read books
+  - Watch series and movies on Netflix
+  - try to finish some side projects
 
   
 - 💬 Ask me about 
