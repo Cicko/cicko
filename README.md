@@ -9,10 +9,7 @@ I am Rudy, an experienced Web and Apps developer with 8 years coding experience 
   - On some Tools for musicians (PWAs)
   
 - 🌱 I’m currently learning
-  - About Finance
-  - Improving my soft/hard skills
-  - About healthy nutrition
-  - Prokofiev's Piano Concerto 2 - Cadenza and Mirage by Oscar Peterson
+  - How to detect chords from an audio source with polyphony notes
   
 - 👯 I’m looking to collaborate on 
   - Big projects such the Chromium Browser. I already started an improvement I hope to PR soon
