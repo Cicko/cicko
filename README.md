@@ -5,7 +5,7 @@ I am Rudy, an experienced Web and Apps developer with 8 years coding experience 
 - 🔭 I’m currently working..
   - As Software Engineer at IBM - (TypeScript, React, Java)
   - On a Broker platform with a multidisciplinary team, leading 5 developers around the globe  
-  - On a Social Network for Classical Pianists (temporarly delayed)
+  - On a Social Network/Educational platform for Musicians
   - On some Tools for musicians (PWAs)
   
 - 🌱 I’m currently learning
