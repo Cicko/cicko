@@ -22,6 +22,9 @@ I am Rudy, an experienced Web and Apps developer with 8 years coding experience 
   - Ride the bike around some nature
   - Read books
   - Watch series and movies on Netflix
+  - Play Beach Tennis 🎾 or any other collective sports!
+  - Train Muay Thai
+  - Learn Bachata/Salsa dance
   - try to finish some side projects
 
   
