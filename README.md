@@ -1,4 +1,6 @@
 ### Hi there 👋
+![Metrics](https://metrics.lecoq.io/Cicko?template=classic&config.timezone=Europe%2FPrague)
+
 
 I am Rudy, an experienced Web and Apps developer with 8 years coding experience (4 of them professionally with JavaScript). 
 
