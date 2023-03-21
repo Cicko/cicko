@@ -2,11 +2,12 @@
 
 
 # About Me
+- Coding since 2013
 - 💻 Application Developer at @ibm using TypeScript, React and Node.
 - 📱 Flutter & React Native Developer in my free time
 - 🎮 Unreal Engine - Unity3d - Blender3d fan
 - 📹 Occasional YouTuber
-- 🎹 Passionate Musician - specially in classical music
+- 🎹 Passionate Musician - specially in classical music (I studied piano since 2001)
 - 🎼 Sometimes Music Producer
 
 # Tech Stack
