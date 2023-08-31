@@ -2,7 +2,6 @@
 
 
 # About Me
-- Starting Master in AI Research (UNED) in October 2023.
 - Coding since 2013
 - 💻 Application Developer at @ibm using TypeScript, React and Node.
 - 📱 Flutter & React Native Developer in my free time
